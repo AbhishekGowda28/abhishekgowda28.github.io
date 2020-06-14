@@ -13,8 +13,7 @@ code {
 
 .App {
   margin          : 25px;
-  position        : relative;
-  height          : 500px;
+  height          : 92vh;
   box-shadow      : 1px 1px 75px #c8c8c8;
   background-color: #eeeeee;
   display         : flex;
@@ -31,10 +30,6 @@ code {
   justify-content: center;
   text-align     : center;
   padding-top    : 50px;
-}
-
-.sideBar:hover {
-  display: none;
 }
 
 @media only Screen and (max-width: 500px) {
