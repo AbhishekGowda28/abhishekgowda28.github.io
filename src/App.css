@@ -1,0 +1,40 @@
+body,
+html {
+  height: 100vh;
+}
+
+html {
+  text-align         : center;
+  font-size          : 1.5rem;
+  height             : 100vh;
+  background-image   : url(./Assets/under_construction.jpg);
+  background-position: center;
+  background-repeat  : no-repeat;
+  background-size    : cover;
+}
+
+.contact-me {
+  margin-top: 50px;
+}
+
+@media only screen and (max-width: 500px) {
+
+  .links {
+    display: block;
+  }
+}
+
+.links {
+  display: inline;
+  margin : 50px;
+}
+
+img {
+  padding: 10px;
+  width  : 50px;
+  height : 50px;
+}
+
+.progressBar {
+  margin-top: 50px;
+}
