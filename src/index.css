@@ -13,32 +13,22 @@ code {
 
 .App {
   margin          : 25px;
-  position        : relative;
-  height          : 500px;
+  height          : 92vh;
   box-shadow      : 1px 1px 75px #c8c8c8;
   background-color: #eeeeee;
   display         : flex;
   flex-wrap       : wrap;
   justify-content : center;
-}
-
-.sideBar {
-  width : 150px;
-  margin: 50px 0 0 50px;
-}
-
-.main {
-  justify-content: center;
-  text-align     : center;
-  padding-top    : 50px;
-}
-
-.sideBar:hover {
-  display: none;
+  align-items     : baseline;
 }
 
 @media only Screen and (max-width: 500px) {
+  .App {
+    flex-direction : column;
+    justify-content: flex-start;
+  }
+
   .main {
-    clear: both;
+    margin-top : 25px;
   }
 }
