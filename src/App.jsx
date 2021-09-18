@@ -1,9 +1,9 @@
 import React from 'react';
-import { SideBar, MainScreen } from './Components';
+import { Navigation, MainScreen } from './Components';
 function App() {
   return (
     <div className="App">
-      <SideBar />
+      <Navigation />
       <MainScreen />
     </div>
   );

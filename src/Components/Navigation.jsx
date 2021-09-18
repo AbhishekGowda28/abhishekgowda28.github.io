@@ -1,6 +1,6 @@
 import React from "react";
 
-export function SideBar() {
+export function Navigation() {
     return (
         <div className="sideBar">
             <div>Image Goes here</div>
@@ -8,10 +8,9 @@ export function SideBar() {
             <div className="description">Web Developer</div>
             <div className="list">
                 <div>HOME</div>
-                <div>ABOUT</div>
                 <div>SKILLS</div>
-                <div>EDUCATION</div>
                 <div>EXPERIENCE</div>
+                <div>ABOUT</div>
                 <div>CONTACT</div>
             </div>
         </div>

@@ -1,4 +1,4 @@
-import { SideBar } from './SideBar';
+import { Navigation } from './Navigation';
 import { MainScreen } from './MainScreen';
 
-export { MainScreen, SideBar };
+export { MainScreen, Navigation  };
