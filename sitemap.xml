@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://abhishekgowda28.github.io/categories/</loc>
+    <loc>https://abhishekgowda28.github.io/docs/setting_up_blog/</loc>
+  </url><url>
+    <loc>https://abhishekgowda28.github.io/posts/</loc>
+    <lastmod>2022-08-19T22:49:02+05:30</lastmod>
+  </url><url>
+    <loc>https://abhishekgowda28.github.io/posts/intro/</loc>
+    <lastmod>2022-08-19T22:49:02+05:30</lastmod>
   </url><url>
     <loc>https://abhishekgowda28.github.io/</loc>
+    <lastmod>2022-08-19T22:49:02+05:30</lastmod>
+  </url><url>
+    <loc>https://abhishekgowda28.github.io/categories/</loc>
+  </url><url>
+    <loc>https://abhishekgowda28.github.io/docs/</loc>
   </url><url>
     <loc>https://abhishekgowda28.github.io/tags/</loc>
   </url>

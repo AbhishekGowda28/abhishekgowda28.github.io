@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Programming Lab</title>
+    <link>https://abhishekgowda28.github.io/docs/</link>
+    <description>Recent content in Docs on Programming Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://abhishekgowda28.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting Up Blog With Github Pages</title>
+      <link>https://abhishekgowda28.github.io/docs/setting_up_blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishekgowda28.github.io/docs/setting_up_blog/</guid>
+      <description>Setting Up Blog With Github Pages #  I always wanted to record my programming learning in someway. Video medium for me is hard, because I&amp;rsquo;m shy in front of the camera. But as</description>
+    </item>
+    
+  </channel>
+</rss>
