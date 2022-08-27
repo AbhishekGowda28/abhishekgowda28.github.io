@@ -37,14 +37,5 @@ This is how a sample JSX looks like
 const SampleJsx = () =&amp;gt; { return ( &amp;lt;div&amp;gt; &amp;lt;div&amp;gt;SampleJSX&amp;lt;div&amp;gt; &amp;lt;/div&amp;gt; ) } And this is how a regular XML looks like</description>
     </item>
     
-    <item>
-      <title>Intro</title>
-      <link>https://abhishekgowda28.github.io/posts/intro/</link>
-      <pubDate>Fri, 19 Aug 2022 22:49:02 +0530</pubDate>
-      
-      <guid>https://abhishekgowda28.github.io/posts/intro/</guid>
-      <description>Let&amp;rsquo;s see what this can host #  </description>
-    </item>
-    
   </channel>
 </rss>
