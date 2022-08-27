@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Notes on Programming Lab</title>
-    <link>https://abhishekgowda28.github.io/posts/</link>
-    <description>Recent content in Notes on Programming Lab</description>
+    <title>react on Programming Lab</title>
+    <link>https://abhishekgowda28.github.io/tags/react/</link>
+    <description>Recent content in react on Programming Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Aug 2022 06:19:57 +0530</lastBuildDate><atom:link href="https://abhishekgowda28.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Aug 2022 06:19:57 +0530</lastBuildDate><atom:link href="https://abhishekgowda28.github.io/tags/react/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jsx as Template</title>
       <link>https://abhishekgowda28.github.io/posts/jsx_as_template/</link>
@@ -16,15 +16,6 @@
       <description>JSX as a templating language #  If you are doing web development in react, you would know what JSX is. If not go look it up, I&amp;rsquo;m not going to explain. And if your using typescript in web development it&amp;rsquo;s tsx.
 This is how a sample JSX looks like
 const SampleJsx = () =&amp;gt; { return ( &amp;lt;div&amp;gt; &amp;lt;div&amp;gt;SampleJSX&amp;lt;div&amp;gt; &amp;lt;/div&amp;gt; ) } And this is how a regular XML looks like</description>
-    </item>
-    
-    <item>
-      <title>Intro</title>
-      <link>https://abhishekgowda28.github.io/posts/intro/</link>
-      <pubDate>Fri, 19 Aug 2022 22:49:02 +0530</pubDate>
-      
-      <guid>https://abhishekgowda28.github.io/posts/intro/</guid>
-      <description>Let&amp;rsquo;s see what this can host #  </description>
     </item>
     
   </channel>

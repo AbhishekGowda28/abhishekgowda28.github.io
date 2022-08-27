@@ -6,7 +6,7 @@
     <description>Recent content in Introduction on Programming Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Aug 2022 22:49:02 +0530</lastBuildDate><atom:link href="https://abhishekgowda28.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Aug 2022 06:19:57 +0530</lastBuildDate><atom:link href="https://abhishekgowda28.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting Up Blog With Github Pages</title>
       <link>https://abhishekgowda28.github.io/docs/setting_up_blog/</link>
@@ -24,6 +24,17 @@
       <guid>https://abhishekgowda28.github.io/docs/stopped_using_notion/</guid>
       <description>Why I stopped using Notion for everything #  Notion is an all in one note taking app. It started as so, but I think now it has growen more than that. I was a notion fanatic, had my complete life setup in notion. My daily task, bookmark of websites, TV-shows, books and much more.
 I started using notion to organize thing in my life, whatever I did, used to update that in notion.</description>
+    </item>
+    
+    <item>
+      <title>Jsx as Template</title>
+      <link>https://abhishekgowda28.github.io/posts/jsx_as_template/</link>
+      <pubDate>Sat, 27 Aug 2022 06:19:57 +0530</pubDate>
+      
+      <guid>https://abhishekgowda28.github.io/posts/jsx_as_template/</guid>
+      <description>JSX as a templating language #  If you are doing web development in react, you would know what JSX is. If not go look it up, I&amp;rsquo;m not going to explain. And if your using typescript in web development it&amp;rsquo;s tsx.
+This is how a sample JSX looks like
+const SampleJsx = () =&amp;gt; { return ( &amp;lt;div&amp;gt; &amp;lt;div&amp;gt;SampleJSX&amp;lt;div&amp;gt; &amp;lt;/div&amp;gt; ) } And this is how a regular XML looks like</description>
     </item>
     
     <item>
