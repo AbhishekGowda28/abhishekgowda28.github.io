@@ -6,14 +6,19 @@
     <description>Recent content in Introduction on Programming Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Aug 2022 06:19:57 +0530</lastBuildDate><atom:link href="https://abhishekgowda28.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Dec 2023 09:27:51 +0530</lastBuildDate><atom:link href="https://abhishekgowda28.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting Up Blog With Github Pages</title>
       <link>https://abhishekgowda28.github.io/docs/setting_up_blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://abhishekgowda28.github.io/docs/setting_up_blog/</guid>
-      <description>Setting Up Blog With Github Pages #  I always wanted to record my programming learning in someway. Video medium for me is hard, because I&amp;rsquo;m shy in front of the camera. But as</description>
+      <description>Setting Up Blog With Github Pages and Hugo#Hugo is a static site generator that lets us create sites very fast.
+Install hugo from installation page of hugo. Follow appropriate steps need to instal it.
+We also need git to be installed. Make sure git is setup in the system.
+Generating new site with hugo
+hugo new site &amp;lt;site_name&amp;gt; Example:
+hugo new site sample-site cd sample-site Adding theme. We can add any theme we want.</description>
     </item>
     
     <item>
@@ -22,8 +27,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://abhishekgowda28.github.io/docs/stopped_using_notion/</guid>
-      <description>Why I stopped using Notion for everything #  Notion is an all in one note taking app. It started as so, but I think now it has growen more than that. I was a notion fanatic, had my complete life setup in notion. My daily task, bookmark of websites, TV-shows, books and much more.
+      <description>Why I stopped using Notion for everything#Notion is an all in one note taking app. It started as so, but I think now it has growen more than that. I was a notion fanatic, had my complete life setup in notion. My daily task, bookmark of websites, TV-shows, books and much more.
 I started using notion to organize thing in my life, whatever I did, used to update that in notion.</description>
+    </item>
+    
+    <item>
+      <title>Programming Lab</title>
+      <link>https://abhishekgowda28.github.io/posts/programming_lab/</link>
+      <pubDate>Tue, 12 Dec 2023 09:27:51 +0530</pubDate>
+      
+      <guid>https://abhishekgowda28.github.io/posts/programming_lab/</guid>
+      <description>Programming Lab#I wanted this to reflect me as a professional, where I could attract some potential people who would pay for my work, but later thought, I don&amp;rsquo;t want to do that and here it&amp;rsquo;s&amp;hellip;
+DISCLAIMER#NOTE : ALL THESE ARE MY OWN OPNION AND IN NO WAY IT REFLECT ANY OF MY SURROUNDING PEOPLE INCLUDING BUT NOT LIMITED TO MY FAMILY, FRIENDS, EMPLOYERS, EMPLOYEES or ANYONE ELSE</description>
     </item>
     
     <item>
@@ -32,7 +47,7 @@ I started using notion to organize thing in my life, whatever I did, used to upd
       <pubDate>Sat, 27 Aug 2022 06:19:57 +0530</pubDate>
       
       <guid>https://abhishekgowda28.github.io/posts/jsx_as_template/</guid>
-      <description>JSX as a templating language #  If you are doing web development in react, you would know what JSX is. If not go look it up, I&amp;rsquo;m not going to explain. And if your using typescript in web development it&amp;rsquo;s tsx.
+      <description>JSX as a templating language#If you are doing web development in react, you would know what JSX is. If not go look it up, I&amp;rsquo;m not going to explain. And if your using typescript in web development it&amp;rsquo;s tsx.
 This is how a sample JSX looks like
 const SampleJsx = () =&amp;gt; { return ( &amp;lt;div&amp;gt; &amp;lt;div&amp;gt;SampleJSX&amp;lt;div&amp;gt; &amp;lt;/div&amp;gt; ) } And this is how a regular XML looks like</description>
     </item>

@@ -13,7 +13,7 @@
       <pubDate>Sat, 27 Aug 2022 06:19:57 +0530</pubDate>
       
       <guid>https://abhishekgowda28.github.io/posts/jsx_as_template/</guid>
-      <description>JSX as a templating language #  If you are doing web development in react, you would know what JSX is. If not go look it up, I&amp;rsquo;m not going to explain. And if your using typescript in web development it&amp;rsquo;s tsx.
+      <description>JSX as a templating language#If you are doing web development in react, you would know what JSX is. If not go look it up, I&amp;rsquo;m not going to explain. And if your using typescript in web development it&amp;rsquo;s tsx.
 This is how a sample JSX looks like
 const SampleJsx = () =&amp;gt; { return ( &amp;lt;div&amp;gt; &amp;lt;div&amp;gt;SampleJSX&amp;lt;div&amp;gt; &amp;lt;/div&amp;gt; ) } And this is how a regular XML looks like</description>
     </item>

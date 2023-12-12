@@ -3,21 +3,31 @@
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Setting Up Blog With Github Pages #  I always wanted to record my programming learning in someway. Video medium for me is hard, because I&rsquo;m shy in front of the camera. But as">
-<meta name="theme-color" content="#FFFFFF">
+<meta name="description" content="Setting Up Blog With Github Pages and Hugo#Hugo is a static site generator that lets us create sites very fast.
+Install hugo from installation page of hugo. Follow appropriate steps need to instal it.
+We also need git to be installed. Make sure git is setup in the system.
+Generating new site with hugo
+hugo new site &lt;site_name&gt; Example:
+hugo new site sample-site cd sample-site Adding theme. We can add any theme we want.">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
 <meta name="color-scheme" content="light dark"><meta property="og:title" content="Setting Up Blog With Github Pages" />
-<meta property="og:description" content="Setting Up Blog With Github Pages #  I always wanted to record my programming learning in someway. Video medium for me is hard, because I&rsquo;m shy in front of the camera. But as" />
+<meta property="og:description" content="Setting Up Blog With Github Pages and Hugo#Hugo is a static site generator that lets us create sites very fast.
+Install hugo from installation page of hugo. Follow appropriate steps need to instal it.
+We also need git to be installed. Make sure git is setup in the system.
+Generating new site with hugo
+hugo new site &lt;site_name&gt; Example:
+hugo new site sample-site cd sample-site Adding theme. We can add any theme we want." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://abhishekgowda28.github.io/docs/setting_up_blog/" /><meta property="article:section" content="docs" />
 
 
-
 <title>Setting Up Blog With Github Pages | Programming Lab</title>
 <link rel="manifest" href="/manifest.json">
-<link rel="icon" href="/favicon.png" type="image/x-icon">
-<link rel="stylesheet" href="/book.min.a82d7e77ceb134d151c4d7e381eeb30623fbd5a524d58c584d8716ecec0205bd.css" integrity="sha256-qC1&#43;d86xNNFRxNfjge6zBiP71aUk1YxYTYcW7OwCBb0=" crossorigin="anonymous">
+<link rel="icon" href="/favicon.png" >
+<link rel="stylesheet" href="/book.min.f8de3645fe00591b41524aee174e19edd98a22255a2930a0cdc82a94835ba387.css" integrity="sha256-&#43;N42Rf4AWRtBUkruF04Z7dmKIiVaKTCgzcgqlINbo4c=" crossorigin="anonymous">
   <script defer src="/flexsearch.min.js"></script>
-  <script defer src="/en.search.min.c35d34fa355214d5b11c6d6f0198004e1fe2f5e905500876dae69c36cf9131a1.js" integrity="sha256-w100&#43;jVSFNWxHG1vAZgATh/i9ekFUAh22uacNs&#43;RMaE=" crossorigin="anonymous"></script>
+  <script defer src="/en.search.min.cdd9303f7f4d16e2e00be7bc81899355e97be0dcaf291a6f7320626ea0d59add.js" integrity="sha256-zdkwP39NFuLgC&#43;e8gYmTVel74NyvKRpvcyBibqDVmt0=" crossorigin="anonymous"></script>
 <!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
@@ -69,6 +79,19 @@ https://github.com/alex-shpak/hugo-book
   
 
   
+    <a href="/docs/setting_up_blog/" class="active">Setting Up Blog With Github Pages</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
     <a href="/docs/stopped_using_notion/" class="">Stopped Using Notion</a>
   
 
@@ -91,13 +114,13 @@ https://github.com/alex-shpak/hugo-book
 <ul>
   
   <li>
-    <a href="/posts/" >
+    <a href="/posts/"  >
         Notes
       </a>
   </li>
   
   <li>
-    <a href="https://github.com/abhishekgowda28" target="_blank" rel="noopener">
+    <a href="https://github.com/abhishekgowda28"  target="_blank" rel="noopener">
         Github
       </a>
   </li>
@@ -114,7 +137,7 @@ https://github.com/alex-shpak/hugo-book
 
 
 
-  <script>(function(){var a=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(b){localStorage.setItem("menu.scrollTop",a.scrollTop)}),a.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
 
 
  
@@ -154,13 +177,51 @@ https://github.com/alex-shpak/hugo-book
 
       
       
-  <article class="markdown"><h1 id="setting-up-blog-with-github-pages">
-  Setting Up Blog With Github Pages
-  <a class="anchor" href="#setting-up-blog-with-github-pages">#</a>
+  <article class="markdown book-article"><h1 id="setting-up-blog-with-github-pages-and-hugo">
+  Setting Up Blog With Github Pages and Hugo
+  <a class="anchor" href="#setting-up-blog-with-github-pages-and-hugo">#</a>
 </h1>
-<p>I always wanted to record my programming learning in someway. Video medium for me is hard, because I&rsquo;m shy in front of the camera.
-But as</p>
-</article>
+<p>Hugo is a static site generator that lets us create sites very fast.</p>
+<ol>
+<li>
+<p>Install hugo from <a href="https://gohugo.io/installation">installation</a> page of hugo. Follow appropriate steps need to instal it.</p>
+<p>We also need git to be installed. Make sure git is setup in the system.</p>
+</li>
+<li>
+<p>Generating new site with hugo</p>
+</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hugo new site &lt;site_name&gt;
+</span></span></code></pre></div><p>Example:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hugo new site sample-site
+</span></span><span style="display:flex;"><span>cd sample-site
+</span></span></code></pre></div><ol start="3">
+<li>Adding theme.
+We can add any theme we want. Themes can be found <a href="https://themes.gohugo.io/">here</a>. Here I&rsquo;ll be adding <a href="https://themes.gohugo.io/themes/hugo-book/">Book theme</a>.</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git submodule add https://github.com/alex-shpak/hugo-book.git themes/hugo-book
+</span></span></code></pre></div><ol start="4">
+<li>Update config file</li>
+</ol>
+<p>Now we have to let the <code>config.toml</code> file know which theme we will be using.
+At the end of the file add</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span><span style="color:#a6e22e">theme</span> = <span style="color:#e6db74">&#39;hugo-book&#39;</span>
+</span></span></code></pre></div><ol start="5">
+<li>Start the server</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hugo server
+</span></span></code></pre></div><ol start="6">
+<li>Adding content</li>
+</ol>
+<p>We can&rsquo;t just add contents directly by creating files. We&rsquo;ll have to use hugo command for this.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hugo new posts/first-book.md
+</span></span></code></pre></div><ol start="7">
+<li>Bundeling</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hugo -t &lt;theme_name&gt;
+</span></span></code></pre></div><p><strong>Example:</strong></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hugo -t hugo-book
+</span></span></code></pre></div></article>
  
       
 
@@ -176,7 +237,7 @@ But as</p>
 
 
 
-  <script>(function(){function a(c){const a=window.getSelection(),b=document.createRange();b.selectNodeContents(c),a.removeAllRanges(),a.addRange(b)}document.querySelectorAll("pre code").forEach(b=>{b.addEventListener("click",function(c){if(window.getSelection().toString())return;a(b.parentElement),navigator.clipboard&&navigator.clipboard.writeText(b.parentElement.textContent)})})})()</script>
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
 
 
  

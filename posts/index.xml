@@ -6,14 +6,24 @@
     <description>Recent content in Notes on Programming Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Aug 2022 06:19:57 +0530</lastBuildDate><atom:link href="https://abhishekgowda28.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Dec 2023 09:27:51 +0530</lastBuildDate><atom:link href="https://abhishekgowda28.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programming Lab</title>
+      <link>https://abhishekgowda28.github.io/posts/programming_lab/</link>
+      <pubDate>Tue, 12 Dec 2023 09:27:51 +0530</pubDate>
+      
+      <guid>https://abhishekgowda28.github.io/posts/programming_lab/</guid>
+      <description>Programming Lab#I wanted this to reflect me as a professional, where I could attract some potential people who would pay for my work, but later thought, I don&amp;rsquo;t want to do that and here it&amp;rsquo;s&amp;hellip;
+DISCLAIMER#NOTE : ALL THESE ARE MY OWN OPNION AND IN NO WAY IT REFLECT ANY OF MY SURROUNDING PEOPLE INCLUDING BUT NOT LIMITED TO MY FAMILY, FRIENDS, EMPLOYERS, EMPLOYEES or ANYONE ELSE</description>
+    </item>
+    
     <item>
       <title>Jsx as Template</title>
       <link>https://abhishekgowda28.github.io/posts/jsx_as_template/</link>
       <pubDate>Sat, 27 Aug 2022 06:19:57 +0530</pubDate>
       
       <guid>https://abhishekgowda28.github.io/posts/jsx_as_template/</guid>
-      <description>JSX as a templating language #  If you are doing web development in react, you would know what JSX is. If not go look it up, I&amp;rsquo;m not going to explain. And if your using typescript in web development it&amp;rsquo;s tsx.
+      <description>JSX as a templating language#If you are doing web development in react, you would know what JSX is. If not go look it up, I&amp;rsquo;m not going to explain. And if your using typescript in web development it&amp;rsquo;s tsx.
 This is how a sample JSX looks like
 const SampleJsx = () =&amp;gt; { return ( &amp;lt;div&amp;gt; &amp;lt;div&amp;gt;SampleJSX&amp;lt;div&amp;gt; &amp;lt;/div&amp;gt; ) } And this is how a regular XML looks like</description>
     </item>
